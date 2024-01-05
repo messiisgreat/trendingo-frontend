@@ -4,8 +4,8 @@
 [![Live site](readme_images/guide-site.png)](https://trendingo.cc)
 
 ## Contact info
-- **Email:** dejanteofilovic2@gmail.com
-- **Discord:** [dejan_teofilovic](https://discord.gg/PztT2r5U)
+- **Email:** superonecoderman@gmail.com
+- **Discord:** [Anaconda](superonecoderman)
 
 
 ## Release date
